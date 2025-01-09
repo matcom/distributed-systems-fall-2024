@@ -27,7 +27,7 @@ Cada equipo debe de proporcionar un informe en formato pdf en su repositorio pro
 
 3. Comunicación o el problema de como enviar información mediante la red
 
-* Tipo de comunicación, rpc, sockets, rest, ojectos remotos, patrones de mensajes, etc
+* Tipo de comunicación, rpc, sockets, rest, objetos remotos, patrones de mensajes, etc
 * Comunicación cliente - servidor y servidor - servidor
 * Comunicación entre procesos.
 
